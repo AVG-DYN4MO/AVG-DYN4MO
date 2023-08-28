@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/supriyaghosh2004?utm_source=linktree_admin_share](https://linktr.ee/supriyaghosh2004)
+- 👨‍💻 All of my projects are available at [https://linktr.ee/supriyaghosh2004](https://linktr.ee/supriyaghosh2004)
 
 - 💬 Ask me about **Webdevelopment**
 
