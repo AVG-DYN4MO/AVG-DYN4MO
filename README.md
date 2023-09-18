@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/supriya-ghosh-68416124a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supriya-ghosh-68416124a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/supriyaghosh2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supriya-ghosh-68416124a" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100024968076463" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supriya ghosh (bittu)" height="30" width="40" /></a>
 <a href="https://instagram.com/omg.itz.sg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omg.itz.sg" height="30" width="40" /></a>
 </p>
