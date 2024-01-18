@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **supriyaghosh.developer@gmail.com**
 
-- 🔭 Fun fact **I love Astronomy**
+- 🔭 Fun fact **I love Astronomy & Geopolitics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
