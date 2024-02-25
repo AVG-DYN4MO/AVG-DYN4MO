@@ -1,6 +1,6 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Supriya Ghosh</h1>
-<h3 align="center">A passionate front-end developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
  <div align="center">Visitor Count<br>
 
