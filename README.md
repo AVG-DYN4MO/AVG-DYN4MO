@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/supriyaghosh2004](https://linktr.ee/supriyaghosh2004)
+- 👨‍💻 Some of my projects are available at [Bento](https://bento.me/supriyaghosh)
 
 - 💬 Ask me about **Webdevelopment**
 
