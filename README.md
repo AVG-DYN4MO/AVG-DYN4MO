@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 Some of my projects are available at [Bento](https://bento.me/supriyaghosh)
+- 👨‍💻 Some of my projects are available [here](https://bento.me/supriyaghosh)
 
 - 💬 Ask me about **Webdevelopment**
 
